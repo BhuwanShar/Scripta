@@ -1,5 +1,5 @@
 /* ================================================================
-   Scripta — Readability Report with Radar Chart
+   ScriptaDocX — Readability Report with Radar Chart
    ================================================================ */
 
 var ReadabilityTool = {
