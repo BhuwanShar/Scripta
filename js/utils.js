@@ -1,6 +1,5 @@
 /* ================================================================
-   Scripta — Utility Functions
-   Developed by Bhuwan Sharma
+   ScriptaDocX — Utility Functions
    ================================================================ */
 
 var Utils = {
