@@ -1,10 +1,10 @@
 /* ================================================================
-   Scripta — Theme Manager
-   Developed by Bhuwan Sharma
+   ScriptaDocX — Theme Manager
+   
    ================================================================ */
 
 var ThemeManager = {
-    storageKey: 'scripta-theme',
+    storageKey: 'ScriptaDocX-theme',
     current: 'dark',
 
     init: function() {
