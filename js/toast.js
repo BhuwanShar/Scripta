@@ -1,5 +1,5 @@
 /* ================================================================
-   Scripta — Toast Notification System
+   ScriptaDocx — Toast Notification System
    Developed by Bhuwan Sharma
    ================================================================ */
 
