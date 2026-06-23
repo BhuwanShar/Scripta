@@ -1,5 +1,5 @@
 /* ================================================================
-   Scripta — Edit Metadata
+   ScriptaDocX — Edit Metadata
    ================================================================ */
 
 var MetadataTool = {
@@ -60,7 +60,7 @@ var MetadataTool = {
             doc.setSubject(document.getElementById('meta-subject').value);
             doc.setKeywords(document.getElementById('meta-keywords').value.split(',').map(function(s) { return s.trim(); }));
             doc.setModificationDate(new Date());
-            doc.setProducer('Scripta by Bhuwan Sharma');
+            doc.setProducer('ScriptaDocX by Bhuwan Sharma');
             return doc.save();
         }).then(function(out) {
             self.state.result = out;
