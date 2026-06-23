@@ -1,5 +1,5 @@
 /* ================================================================
-   Scripta — Sentiment Analysis with Chart
+   ScriptaDocX — Sentiment Analysis with Chart
    ================================================================ */
 
 var SentimentTool = {
