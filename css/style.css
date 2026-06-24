@@ -319,8 +319,8 @@ img { max-width: 100%; display: block; }
     background: none;
     border: none;
     cursor: pointer;
-    padding: 6px;
-    margin-left: 200px;
+    padding: 20px;
+    margin-left: auto;
 }
 
 .mobile-menu-toggle span {
